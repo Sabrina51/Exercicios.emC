@@ -1,0 +1,68 @@
+# Comandos de repetição em linguagem C
+
+## Exercícios que fiz para treinar e entender os comandos de repetição: for, while e do while.
+
+Essas atividades foram indicadas por um professor.
+
+### Lista de programas
+
+01 - CONTA DE 1 A 10 COM O For, While E Do While
+
+02 - MOSTA OS CINCO PRIMEIROS MULTIPLOS DE 3 USANDO
+
+03 - LÊ 10 VALORES E MOSTA O MAIOR E O MENOR VALOR
+
+04 - MÉDIA DE 10 VALORES
+
+05 - MÉDIA DE 10 VALORES POSITIVOS (VALIDAÇÃO)
+
+06 - SOMA DE 10 VALORES
+
+07 - DE 10 EM 10 ATÉ 1000
+
+08 - MOSTRA NÚMEROS IMPARES EM ORDEM CRESCENTE (VALIDAÇÃO)
+
+09 - MOSTRA OS NÚMEROS IMPARES EM ORDEM DECRESCENTE
+
+10 - MOSTRA OS PRIMEIOS NÚMEROS NATURAIS IMPARES DE UM NUMERO
+
+11 - NÚMEROS INTEIROS POSITIVOS ORDEM CRESCENTE
+
+12 - NÚMEROS INTEIROS POSITIVOS ORDEM DECRESCENTE
+
+13 - MOSTRA APENAS OS NÚMEROS PARES EM ORDEM CRESCENTE
+
+14 - MOSTRA APENAS NÚMEROS PARES EM ORDEM DECRESCENTE
+
+15 - CONTAGEM DE 10 A 0
+
+16 - SOMA DOS PRIMEIROS 50 NÚMEROS PARES
+
+17 - VERIFICA SE OS NÚMEROS DIGITADOS ESTÃO ENTRE 10 E 20
+
+18 - PRINTA "Hello World" 10 VEZES (sequencial e for)
+
+19 - CALCULA A MÉDIA DAS 5 IDADES DIGITADAS
+
+20 - MOSTRA OS NÚMEROS PARES ENTRE 1 E 100
+
+21 - REALIZA UMA PESQUISA E PRINTA OS SEGUINTES  DADOS:
+
+- A menor e maior idade do grupo
+- Quantidade de mulheres na região
+- O menor salário
+- Sexo da pessoa com o menor salário e a idade
+
+22 - VERIFICA 10 NÚMEROS E INFORMA QUANTOS SÃO PARES E QUANTOS SÃO IMPARES
+
+23 - MOSTRA A TABUADA DO NÚMERO DIGITADO
+
+24 - INFORMA SE O NÚMERO DIGITADO É PRIMO
+
+25 - FAZ A LEITURA DE 4 NÚMEROS E MOSTRA AS SEGUINTES INFORMAÇÕES:
+
+- A soma dos números
+- A média dos números
+- O maior e o menor número digitado
+- A média dos números pares
+
