@@ -46,7 +46,7 @@ Essas atividades foram indicadas por um professor.
 
 20 - MOSTRA OS NÚMEROS PARES ENTRE 1 E 100
 
-21 - REALIZA UMA PESQUISA E PRINTA OS SEGUINTES  DADOS:
+21 - REALIZA UMA PESQUISA E PRINTA AS SEGUINTES INFORMAÇÕES:
 
 - A menor e maior idade do grupo
 - Quantidade de mulheres na região
